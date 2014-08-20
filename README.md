@@ -10,10 +10,10 @@ jazz-manouche-bookmarks
 
 ## Resources Manouche ##
 
-[posglov - Manouche Tabs & Mp3](https://sites.google.com/site/posglov/tablatures)
-[Realbook Jazz Books PDF](http://davams.free.fr/)
-[Master Index Real Book](http://davams.free.fr/goodies/MasterNx.PDF)
-[Videos Grills & Play-Back](http://www.just4cab.com/videos-jazz-manouche/#lightbox/20/)
+- [posglov - Manouche Tabs & Mp3](https://sites.google.com/site/posglov/tablatures)
+- [Realbook Jazz Books PDF](http://davams.free.fr/)
+- [Master Index Real Book](http://davams.free.fr/goodies/MasterNx.PDF)
+- [Videos Grills & Play-Back](http://www.just4cab.com/videos-jazz-manouche/#lightbox/20/)
 
 ## JazzManouche EMCA ##
 
